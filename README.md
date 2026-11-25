@@ -8,7 +8,6 @@
 
 Lead generation tool for appointment setters. Scrapes profiles from 8 platforms, enriches them with verified emails using SMTP verification and company domain detection, and exports to CSV.
 
-![Scout CLI](screenshot.png)
 
 ## Install
 
